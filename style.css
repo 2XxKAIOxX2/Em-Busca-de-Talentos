@@ -1,8 +1,6 @@
 .Titulo {
     margin-left: 41%;
     margin-right: 43%;
-    margin-top: 3%;
-
 }
 
 .Texto {
@@ -15,10 +13,12 @@
     width: 100%;
 
 }
+
 .Texto-ao-lado-da-imagem{
     margin-top: -423px;
     margin-left: 615px;
 }
+
 .Creditos{
     margin-top: 388px;
     margin-left: 4px;
