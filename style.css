@@ -5,8 +5,7 @@
     font-family: "Jomhuria", serif;
     font-weight: 1000;
     font-style: normal;
-    display: flex;
-    justify-content: space-around;
+   
  
 }
 
@@ -15,7 +14,9 @@
 .Cor {
     background-color: limegreen;
     width: 100%;
-
+ display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .Texto-ao-lado-da-imagem{
