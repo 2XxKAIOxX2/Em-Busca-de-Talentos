@@ -42,3 +42,8 @@ h2{
     width: 90px;
     height: 90px;
 }
+
+.Indiano{
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
