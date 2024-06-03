@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&family=Knewave&display=swap');
 .Titulo {
     font-size: 34px;
     font-family: "Jomhuria", serif;
@@ -32,4 +33,9 @@
 }
 .Paragrafo{
     margin-left: 100px;
+}
+.Et{
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
 }
