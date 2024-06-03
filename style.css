@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Jomhuria&family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Jomhuria&family=Knewave&display=swap');
 .Titulo {
     font-size: 34px;
     font-family: "Jomhuria", serif;
@@ -41,8 +42,13 @@
     font-style: normal;
     display: flex;
     font-size: 45px;
+    align-items: center;
 }
 
 h2{
     margin: 0;
+}
+.img-et{
+    width: 90px;
+    height: 90px;
 }
