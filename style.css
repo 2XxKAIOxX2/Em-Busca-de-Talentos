@@ -20,21 +20,11 @@
     align-items: center;
 }
 
-.Texto-ao-lado-da-imagem{
-    margin-top: -446px;
-    margin-left: 665px;
-}
-
-.Creditos{
-    margin-top: 405px;
-    margin-left: 4px;
-
-}
 .Objetivo{
     margin-left: 1%;
 }
 .Paragrafo{
-    margin-left: 100px;
+    margin-left: 50px;
 }
 .Et{
     font-family: "Knewave", system-ui;
