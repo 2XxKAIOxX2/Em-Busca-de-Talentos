@@ -16,7 +16,7 @@ text-align: start;
 .Titulo {
     font-size: 34px;
     font-family: "Jomhuria", serif;
-    font-weight: 1000px;
+    font-weight: 1000;
     font-style: normal;
    
  
@@ -25,7 +25,7 @@ text-align: start;
 
 .Cor {
     background-color: limegreen;
-    width: 100%;
+    width: 1000px;
  display: flex;
     justify-content: space-around;
     align-items: center;
