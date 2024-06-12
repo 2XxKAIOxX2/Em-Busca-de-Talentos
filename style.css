@@ -8,11 +8,11 @@ width: 14%;
 padding: 20px;
 text-align: start;
     }
-}
-.lista-item:hover{
-    background-color: rgb(2, 107, 2) (119,51,51);
-}
 
+ .lista-item:hover{
+    background-color: rgb(2, 107, 2) (119,51,51);
+ }
+}
 .Titulo {
     font-size: 34px;
     font-family: "Jomhuria", serif;
