@@ -14,7 +14,7 @@ text-align: start;
  }
 }
 .Titulo {
-    font-size: 34px;
+    font-size: 145%;
     font-family: "Jomhuria", serif;
     font-weight: 1000;
     font-style: normal;
@@ -27,7 +27,6 @@ text-align: start;
     background-color: limegreen;
     width: 1000px;
  display: flex;
-    justify-content: space-around;
     align-items: center;
 }
 
@@ -51,8 +50,9 @@ h2{
     margin: 0;
 }
 .img-et{
-    width: 90px;
-    height: 90px;
+   
+    width: 45% ;
+    height: 45%;
 }
 
 .Barras{
@@ -86,7 +86,6 @@ header{
     display: flex;
 align-items: center;
 padding: 12px;
-justify-content: space-around;
 background-color:  rgb(2, 107, 2);
 color: black;
 position: relative;
@@ -124,5 +123,12 @@ a{
 @media screen and (min-width: 1024px) {
     .Et {
         font-size: 300%;
+    }
+    .Titulo{
+        font-size: 34px;
+    }
+    .img-et{
+        width: 90px;
+        height: 90px;
     }
 }
