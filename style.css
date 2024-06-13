@@ -77,7 +77,7 @@ h3{
   font-style: normal;
 }
 .Outra-img{
-    width: 2%;
+    width: 12px;
 }
 *{
     margin: 0;
@@ -85,7 +85,7 @@ h3{
 header{
     display: flex;
 align-items: center;
-padding: 2%;
+padding: 12px;
 justify-content: space-around;
 background-color:  rgb(2, 107, 2);
 color: black;
@@ -107,7 +107,7 @@ a{
     top: 100%;
     background-color:rgb(2, 107, 2) ;
     width: 100%;
-    padding: 2% 0;
+    padding: 12px 0;
     text-align: center;
 } 
 .caixa:checked ~.lista{
@@ -117,7 +117,7 @@ a{
     display: none;
 }
 .lista-item{
-    padding: 2% 0;
+    padding: 12px 0;
 }
 
 
