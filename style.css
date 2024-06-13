@@ -85,7 +85,7 @@ h3{
 header{
     display: flex;
 align-items: center;
-padding: 12px;
+padding: 2%;
 justify-content: space-around;
 background-color:  rgb(2, 107, 2);
 color: black;
@@ -117,7 +117,7 @@ a{
     display: none;
 }
 .lista-item{
-    padding: 12px 0;
+    padding: 2% 0;
 }
 
 
