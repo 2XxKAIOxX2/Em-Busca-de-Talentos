@@ -107,7 +107,7 @@ a{
     top: 100%;
     background-color:rgb(2, 107, 2) ;
     width: 100%;
-    padding: 2% 0;
+    padding: 2% 1%;
     text-align: center;
 }
 .caixa:checked ~ .lista{
