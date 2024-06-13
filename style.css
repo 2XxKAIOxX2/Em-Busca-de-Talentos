@@ -85,7 +85,7 @@ h3{
 header{
     display: flex;
 align-items: center;
-padding: 13px;
+padding: 12px;
 justify-content: space-around;
 background-color:  rgb(2, 107, 2);
 color: black;
