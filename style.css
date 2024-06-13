@@ -27,6 +27,7 @@ text-align: start;
     background-color: limegreen;
  display: flex;
     align-items: center;
+    justify-content: space-around;
 }
 
 .Objetivo{
