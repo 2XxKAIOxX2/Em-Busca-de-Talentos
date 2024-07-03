@@ -1,0 +1,118 @@
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jomhuria&family=Knewave&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&family=Jomhuria&family=Knewave&display=swap');
+ 
+.Titulo {
+    font-size: 145%;
+    font-family: "Jomhuria", serif;
+    font-weight: 1000;
+    font-style: normal;
+   
+ 
+}
+
+
+.Cor {
+    background-color: limegreen;
+ display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+.Et{
+    font-family: "Knewave", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    display: flex;
+    font-size: 200%;
+    align-items: center;
+
+}
+
+h2{
+    margin: 0;
+}
+.img-et{
+   
+    width: 50% ;
+    height: 50%;
+}
+
+.Barras{
+    width: 15%;
+
+}
+
+h3{
+    font-family: "ABeeZee", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.Outra-img{
+    width: 2%;
+}
+*{
+    margin: 0;
+}
+header{
+    display: flex;
+align-items: center;
+padding: 12px;
+justify-content: space-around;
+background-color:  rgb(2, 107, 2);
+color: black;
+position: relative;
+}
+ul li{
+    list-style: none;
+}
+.texto{
+    color: black;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.lista{
+    display: none;
+    position: absolute;
+    top: 100%;
+    background-color:rgb(2, 107, 2) ;
+    width: 100%;
+    padding: 12px 0;
+    text-align: center;
+} 
+.caixa:checked ~.lista{
+    display: block;
+}
+#menu{
+    display: none;
+}
+.lista-item{
+    padding: 12px 0;
+}
+
+
+@media screen and (min-width: 1024px) {
+    .Et {
+        font-size: 300%;
+    }
+    .Titulo{
+        font-size: 34px;
+    }
+    .img-et{
+        width: 90px;
+        height: 90px;
+        .lista{
+            right: 8%;
+    width: 14%;
+    padding: 20px;
+    text-align: start;
+        }
+    
+     .lista-item:hover{
+        background-color: rgb(2, 107, 2) (119,51,51);
+     
+    }
+}
